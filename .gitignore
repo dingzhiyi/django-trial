@@ -1,0 +1,5 @@
+db.sqlite3
+superlists/__pycache__/__init__.cpython-35.pyc
+superlists/__pycache__/settings.cpython-35.pyc
+superlists/__pycache__/urls.cpython-35.pyc
+superlists/__pycache__/wsgi.cpython-35.pyc
